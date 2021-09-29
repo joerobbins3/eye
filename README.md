@@ -12,4 +12,4 @@ Next I would like to combine this concept with the Ball Movement excercise, so t
 
 ## License: 
 
-Distributed under the MIT License. See [License](https://github.com/joerobbins3/eye/blob/main/LICENSE)  for more information.
+Distributed under the MIT License. See [License](https://github.com/joerobbins3/eye/blob/main/LICENSE) for more information.
